@@ -5,37 +5,31 @@ This project focuses on analyzing E-Commerce business data to uncover insights r
 
 🎯 Objectives
 
-Analyze overall business performance
-
-Identify revenue-driving categories, regions, and customer segments
-
-Track trends (Monthly / Quarterly / Yearly)
-
-Support business decisions using data-driven insights
+.Analyze overall business performance
+.Identify revenue-driving categories, regions, and customer segments
+.Track trends (Monthly / Quarterly / Yearly)
+.Support business decisions using data-driven insights
 
 🛠️ Tech Stack / Tools Used
 
-SQL / MySQL – Data Cleaning + Analysis
-
-Power BI / Tableau / Excel – Visualization & Dashboard
-
-Excel / CSV / Database – Dataset Source
-
-(Edit tools according to your project)
+.SQL / MySQL – Data Cleaning + Analysis
+.Power BI / Tableau / Excel – Visualization & Dashboard
+.Excel / CSV / Database – Dataset Source
 
 📂 Dataset Description
 
 The dataset contains the following key fields:
 
 Column	Description
-Order ID	Unique order identifier
-Customer ID	Unique customer
-Product Category	Product Purchased
-Sales	Revenue generated
-Quantity	Units sold
-Profit	Profit per order
-Region	Sales region
-Order Date	Date of purchase
+.Order ID	Unique order identifier
+.Customer ID	Unique customer
+.Product Category	Product Purchased
+.Sales	Revenue generated
+.Quantity	Units sold
+.Profit	Profit per order
+.Region	Sales region
+.Order Date	Date of purchase
+
 🔍 Key Analysis Performed
 
 ✔ Sales Performance Analysis
@@ -56,7 +50,7 @@ Include screenshots or GIF here
 
 1️⃣ Clone the repository
 
-git clone https://github.com/jainkanika09/repository-name
+git clone https://github.com/jainkanika09/E.commerce-SQL case study
 
 
 2️⃣ Open dataset in SQL / Power BI / Tableau
@@ -66,40 +60,28 @@ git clone https://github.com/jainkanika09/repository-name
 📈 Key Insights / Findings
 
 🔹 Best selling category:
-
 🔹 Highest revenue region:
-
 🔹 Monthly trend pattern:
-
 🔹 Profitability observation:
-
-(Update with your real insights)
 
 🧠 Learning Highlights
 
 This project helped me improve:
 
-SQL Query Writing
-
-Data Cleaning & Transformation
-
-Business Problem Solving
-
-Dashboard Designing
-
-Data Storytelling
+.SQL Query Writing
+.Data Cleaning & Transformation
+.Business Problem Solving
+.Dashboard Designing
+.Data Storytelling
 
 👉 Currently still learning and improving — especially strengthening MySQL skills 😊
 
 🔮 Future Enhancements
 
-Add predictive analytics
-
-Create automated dashboard refresh
-
-Expand dataset
-
-Add machine learning insights
+.Add predictive analytics
+.Create automated dashboard refresh
+.Expand dataset
+.Add machine learning insights
 
 🤝 Contributing
 
